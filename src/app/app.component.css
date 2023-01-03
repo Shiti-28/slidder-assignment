@@ -1,0 +1,47 @@
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .section {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+  }
+  
+  .margin {
+    margin: 8px;
+  }
+  
+  
+  .mat-mdc-slider {
+    max-width: 300px;
+    width: 100%;
+  }
+  
+  .field {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px 0;
+    max-width: 284px;
+  }
+  
+  .example-result-card .example-value-label {
+    font-weight: 600;
+  }
+  .parent{
+    width: 500px;
+    height: 400px;
+    align-self: center; 
+    margin-left:auto;
+    margin-right:auto;  
+    vertical-align:middle;
+    margin-top:100px;
+    border: 55px !important;
+    border-style: double;
+    /* border-radius: 30px !important; */
+    box-shadow: 12px 12px 12px gray;
+
+    
+}
